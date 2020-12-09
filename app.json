@@ -1,0 +1,15 @@
+{
+  "name": "Reanimated2Playground",
+  "displayName": "Reanimated2Playground",
+  "expo": {
+    "name": "Reanimated2Playground",
+    "privacy": "unlisted",
+    "sdkVersion": "34.0.0",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
