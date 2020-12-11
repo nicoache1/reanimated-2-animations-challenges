@@ -12,13 +12,17 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
     () => [
       { name: 'Reanimated 2 start example', route: Routes.RN2StartExample },
       { name: 'Pan gesture', route: Routes.PanGesture },
+      { name: 'Circular progress - AKA toggl', route: Routes.CircularProgress },
     ],
     [],
   )
 
-  const onPress = useCallback((route: Routes) => () => navigation.push(route), [
-    navigation,
-  ])
+  const onPress = useCallback(
+    (route: Routes) => () => {
+      navigation.push(route)
+    },
+    [navigation],
+  )
 
   const renderItem = useCallback(
     ({ item }: ListRenderItemInfo<ExampleItem>) => (

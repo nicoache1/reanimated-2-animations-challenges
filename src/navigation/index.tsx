@@ -1,5 +1,6 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
+import { CircularProgress } from 'src/scenes/circularProgress'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
@@ -17,6 +18,10 @@ export const AppContainer: React.FC<{}> = () => {
         component={AnimatedStyleUpdateExample}
       />
       <Stack.Screen name={Routes.PanGesture} component={PanGesture} />
+      <Stack.Screen
+        name={Routes.CircularProgress}
+        component={CircularProgress}
+      />
     </Stack.Navigator>
   )
 }
