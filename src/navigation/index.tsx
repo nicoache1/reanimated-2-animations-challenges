@@ -3,6 +3,7 @@ import React from 'react'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
+import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
 
 import { Routes } from './Routes'
@@ -21,6 +22,10 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.CircularProgress}
         component={CircularProgress}
+      />
+      <Stack.Screen
+        name={Routes.ReflectlyColorSelection}
+        component={ReflectlyColorSelection}
       />
     </Stack.Navigator>
   )

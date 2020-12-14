@@ -4,4 +4,5 @@ export enum Routes {
   RN2StartExample = 'RN2StartExample',
   PanGesture = 'PanGesture',
   CircularProgress = 'CircularProgress',
+  ReflectlyColorSelection = 'ReflectlyColorSelection',
 }

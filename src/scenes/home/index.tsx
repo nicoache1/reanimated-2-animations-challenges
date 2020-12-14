@@ -13,6 +13,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
       { name: 'Reanimated 2 start example', route: Routes.RN2StartExample },
       { name: 'Pan gesture', route: Routes.PanGesture },
       { name: 'Circular progress - AKA toggl', route: Routes.CircularProgress },
+      {
+        name: 'Reflectly color selection',
+        route: Routes.ReflectlyColorSelection,
+      },
     ],
     [],
   )
