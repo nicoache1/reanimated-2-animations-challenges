@@ -5,4 +5,5 @@ export enum Routes {
   PanGesture = 'PanGesture',
   CircularProgress = 'CircularProgress',
   ReflectlyColorSelection = 'ReflectlyColorSelection',
+  CustomOnboarding = 'CustomOnboarding',
 }

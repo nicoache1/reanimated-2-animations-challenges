@@ -1,6 +1,7 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
 import { CircularProgress } from 'src/scenes/circularProgress'
+import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
@@ -26,6 +27,10 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.ReflectlyColorSelection}
         component={ReflectlyColorSelection}
+      />
+      <Stack.Screen
+        name={Routes.CustomOnboarding}
+        component={CustomOnboarding}
       />
     </Stack.Navigator>
   )

@@ -8,18 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* Reanimated2PlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Reanimated2PlaygroundTests.m */; };
+		0532E82BD65D41F6B5808E9F /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 99956B73D3BD4BFFAFB7318A /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf */; };
+		1005075C626D44AB8572AE8A /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = BDB02F4B3DA64205A2054CC2 /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		1483C1464963DD92088F91A9 /* libPods-Reanimated2Playground-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E3DA34E4472C1E02979F9FF8 /* libPods-Reanimated2Playground-tvOSTests.a */; };
+		1546952077E642ABB21A698A /* Radomir Tinkov - RidleyGrotesk-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5D0FD28955AF48398C206571 /* Radomir Tinkov - RidleyGrotesk-Regular.otf */; };
 		1D147DD921586CF76802B669 /* libPods-Reanimated2Playground.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 068DFB68C6BB7BA805EC059C /* libPods-Reanimated2Playground.a */; };
+		24360734B3334E25BA5E6BAE /* Radomir Tinkov - RidleyGrotesk-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B1467137C554422919553D3 /* Radomir Tinkov - RidleyGrotesk-Medium.otf */; };
+		2B7BD1188DE149CFBC57E64E /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A023A5C790AD464A802C6E7C /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* Reanimated2PlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Reanimated2PlaygroundTests.m */; };
+		478D4158B0FF423C8301B581 /* Radomir Tinkov - RidleyGrotesk-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 176233C69740451C8BB01CDF /* Radomir Tinkov - RidleyGrotesk-Italic.otf */; };
 		529CDB3B8C654DBE0B97D370 /* libPods-Reanimated2Playground-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C24B61421A2E2DD6D59E93D /* libPods-Reanimated2Playground-tvOS.a */; };
+		61A3DAC78DDE46FF82B5CD8A /* Radomir Tinkov - RidleyGrotesk-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 211FA39063824D5C9F56986D /* Radomir Tinkov - RidleyGrotesk-Bold.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8FCFA1980FF64983A49212DC /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0CD4E315BCC54AA891E0F878 /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf */; };
+		9EFD245A6F2D41DEB3682AC4 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E814E229E8CF470588C54F02 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf */; };
 		ACC2BF47B801622C684CFA71 /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 65F62867AC911EAB8572DB5B /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */; };
+		B29FE4587FB04D49A69527A8 /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 994F219D8EA344929FE7537B /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf */; };
+		B6B45FDA49674A6894AC56AC /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4B0DD5283FB74E768EADB871 /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf */; };
+		C8AAB08A19274131B8ABE2AF /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E461D9D8E70B4BCC9F4CAF91 /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf */; };
+		E7EE2C796DA6425CA8FB56ED /* Radomir Tinkov - RidleyGrotesk-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 315CBDF7FE78471CB251F49E /* Radomir Tinkov - RidleyGrotesk-Black.otf */; };
+		E8AA458494714F458B14838F /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 45F148C113D6483BBA3A9C43 /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf */; };
+		E90F459EABEB43FCA7EC3AA8 /* Radomir Tinkov - RidleyGrotesk-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = B42E2B67B2A24B9BAA6A393B /* Radomir Tinkov - RidleyGrotesk-Light.otf */; };
+		EE6363B3746B4B3DB1CC801F /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1CF36EDAE4964B539B84D04C /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf */; };
+		FA062CE0B8B74D3D8024A9C4 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4339C1A53F1E4C5CA7939F86 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf */; };
+		FD6C2854C2774D2A92D8E190 /* Radomir Tinkov - RidleyGrotesk-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8CFA6AB725DD4817A1D14482 /* Radomir Tinkov - RidleyGrotesk-Thin.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +63,7 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* Reanimated2PlaygroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Reanimated2PlaygroundTests.m; sourceTree = "<group>"; };
 		068DFB68C6BB7BA805EC059C /* libPods-Reanimated2Playground.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CD4E315BCC54AA891E0F878 /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-BoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-BoldItalic.otf"; sourceTree = "<group>"; };
 		123BAB3071AE9724E8DE5B92 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Reanimated2Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reanimated2Playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Reanimated2Playground/AppDelegate.h; sourceTree = "<group>"; };
@@ -52,18 +71,35 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Reanimated2Playground/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Reanimated2Playground/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Reanimated2Playground/main.m; sourceTree = "<group>"; };
+		176233C69740451C8BB01CDF /* Radomir Tinkov - RidleyGrotesk-Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Italic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Italic.otf"; sourceTree = "<group>"; };
+		1B1467137C554422919553D3 /* Radomir Tinkov - RidleyGrotesk-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Medium.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Medium.otf"; sourceTree = "<group>"; };
+		1CF36EDAE4964B539B84D04C /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-BlackItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-BlackItalic.otf"; sourceTree = "<group>"; };
+		211FA39063824D5C9F56986D /* Radomir Tinkov - RidleyGrotesk-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Bold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Bold.otf"; sourceTree = "<group>"; };
 		28A2FD8F17530E80C86D1592 /* Pods-Reanimated2Playground-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* Reanimated2Playground-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reanimated2Playground-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* Reanimated2Playground-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Reanimated2Playground-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		315CBDF7FE78471CB251F49E /* Radomir Tinkov - RidleyGrotesk-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Black.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Black.otf"; sourceTree = "<group>"; };
 		4299EB92228844F868A30968 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		4339C1A53F1E4C5CA7939F86 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ThinItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ThinItalic.otf"; sourceTree = "<group>"; };
+		45F148C113D6483BBA3A9C43 /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-MediumItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-MediumItalic.otf"; sourceTree = "<group>"; };
+		4B0DD5283FB74E768EADB871 /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-SemiBold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-SemiBold.otf"; sourceTree = "<group>"; };
+		5D0FD28955AF48398C206571 /* Radomir Tinkov - RidleyGrotesk-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Regular.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Regular.otf"; sourceTree = "<group>"; };
 		65F62867AC911EAB8572DB5B /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Reanimated2Playground/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		848D7D1F23B6D1A20F4A209B /* Pods-Reanimated2Playground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.release.xcconfig"; sourceTree = "<group>"; };
 		8C24B61421A2E2DD6D59E93D /* libPods-Reanimated2Playground-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CFA6AB725DD4817A1D14482 /* Radomir Tinkov - RidleyGrotesk-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Thin.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Thin.otf"; sourceTree = "<group>"; };
+		994F219D8EA344929FE7537B /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ExtraBold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ExtraBold.otf"; sourceTree = "<group>"; };
+		99956B73D3BD4BFFAFB7318A /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-LightItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-LightItalic.otf"; sourceTree = "<group>"; };
+		A023A5C790AD464A802C6E7C /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
 		AD8D8C8C05F765992AE1D409 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
+		B42E2B67B2A24B9BAA6A393B /* Radomir Tinkov - RidleyGrotesk-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Light.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Light.otf"; sourceTree = "<group>"; };
+		BDB02F4B3DA64205A2054CC2 /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-UltraLight.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-UltraLight.otf"; sourceTree = "<group>"; };
 		CA9F1B2A45018778E22E26C6 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D32C00086A4D8781F9CF8A81 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		E3DA34E4472C1E02979F9FF8 /* libPods-Reanimated2Playground-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E461D9D8E70B4BCC9F4CAF91 /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf"; sourceTree = "<group>"; };
+		E814E229E8CF470588C54F02 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		FFC2517E09A6BB2B4EA50806 /* Pods-Reanimated2Playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.debug.xcconfig"; sourceTree = "<group>"; };
@@ -165,6 +201,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				F028705D412B6F17B5EDB186 /* Pods */,
+				B0CF5C35B2754A12A1F0D6C1 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -180,6 +217,31 @@
 				2D02E4901E0B4A5D006451C7 /* Reanimated2Playground-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B0CF5C35B2754A12A1F0D6C1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				315CBDF7FE78471CB251F49E /* Radomir Tinkov - RidleyGrotesk-Black.otf */,
+				1CF36EDAE4964B539B84D04C /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf */,
+				211FA39063824D5C9F56986D /* Radomir Tinkov - RidleyGrotesk-Bold.otf */,
+				0CD4E315BCC54AA891E0F878 /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf */,
+				994F219D8EA344929FE7537B /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf */,
+				A023A5C790AD464A802C6E7C /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf */,
+				176233C69740451C8BB01CDF /* Radomir Tinkov - RidleyGrotesk-Italic.otf */,
+				B42E2B67B2A24B9BAA6A393B /* Radomir Tinkov - RidleyGrotesk-Light.otf */,
+				99956B73D3BD4BFFAFB7318A /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf */,
+				1B1467137C554422919553D3 /* Radomir Tinkov - RidleyGrotesk-Medium.otf */,
+				45F148C113D6483BBA3A9C43 /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf */,
+				5D0FD28955AF48398C206571 /* Radomir Tinkov - RidleyGrotesk-Regular.otf */,
+				4B0DD5283FB74E768EADB871 /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf */,
+				E814E229E8CF470588C54F02 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf */,
+				8CFA6AB725DD4817A1D14482 /* Radomir Tinkov - RidleyGrotesk-Thin.otf */,
+				4339C1A53F1E4C5CA7939F86 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf */,
+				BDB02F4B3DA64205A2054CC2 /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf */,
+				E461D9D8E70B4BCC9F4CAF91 /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		F028705D412B6F17B5EDB186 /* Pods */ = {
@@ -342,6 +404,24 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				E7EE2C796DA6425CA8FB56ED /* Radomir Tinkov - RidleyGrotesk-Black.otf in Resources */,
+				EE6363B3746B4B3DB1CC801F /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf in Resources */,
+				61A3DAC78DDE46FF82B5CD8A /* Radomir Tinkov - RidleyGrotesk-Bold.otf in Resources */,
+				8FCFA1980FF64983A49212DC /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf in Resources */,
+				B29FE4587FB04D49A69527A8 /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf in Resources */,
+				2B7BD1188DE149CFBC57E64E /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf in Resources */,
+				478D4158B0FF423C8301B581 /* Radomir Tinkov - RidleyGrotesk-Italic.otf in Resources */,
+				E90F459EABEB43FCA7EC3AA8 /* Radomir Tinkov - RidleyGrotesk-Light.otf in Resources */,
+				0532E82BD65D41F6B5808E9F /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf in Resources */,
+				24360734B3334E25BA5E6BAE /* Radomir Tinkov - RidleyGrotesk-Medium.otf in Resources */,
+				E8AA458494714F458B14838F /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf in Resources */,
+				1546952077E642ABB21A698A /* Radomir Tinkov - RidleyGrotesk-Regular.otf in Resources */,
+				B6B45FDA49674A6894AC56AC /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf in Resources */,
+				9EFD245A6F2D41DEB3682AC4 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf in Resources */,
+				FD6C2854C2774D2A92D8E190 /* Radomir Tinkov - RidleyGrotesk-Thin.otf in Resources */,
+				FA062CE0B8B74D3D8024A9C4 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf in Resources */,
+				1005075C626D44AB8572AE8A /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf in Resources */,
+				C8AAB08A19274131B8ABE2AF /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

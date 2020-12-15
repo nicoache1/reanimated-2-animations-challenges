@@ -17,6 +17,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Reflectly color selection',
         route: Routes.ReflectlyColorSelection,
       },
+      {
+        name: 'Custom onboarding',
+        route: Routes.CustomOnboarding,
+      },
     ],
     [],
   )

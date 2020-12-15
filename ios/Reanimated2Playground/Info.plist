@@ -38,7 +38,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -53,5 +53,27 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>RidleyGrotesk-Regular.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Black.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-BlackItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Bold.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-BoldItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-ExtraBold.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Italic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Light.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-LightItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Medium.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-MediumItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Regular.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-SemiBold.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-Thin.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-ThinItalic.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-UltraLight.otf</string>
+		<string>Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf</string>
+	</array>
 </dict>
 </plist>
