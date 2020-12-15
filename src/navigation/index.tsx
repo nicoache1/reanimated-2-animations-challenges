@@ -1,5 +1,6 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
+import { AccordionList } from 'src/scenes/accordion'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
@@ -37,6 +38,7 @@ export const AppContainer: React.FC<{}> = () => {
         name={Routes.SharedElementTransition}
         component={SharedElementStackNavigator}
       />
+      <Stack.Screen name={Routes.Accordion} component={AccordionList} />
     </Stack.Navigator>
   )
 }

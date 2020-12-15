@@ -9,4 +9,5 @@ export enum Routes {
   SharedElementTransition = 'SharedElementTransition',
   Snapchat = 'Snapchat',
   SnapchatStory = 'SnapchatStory',
+  Accordion = 'Accordion',
 }

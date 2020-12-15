@@ -10,9 +10,18 @@ import { ExampleItem } from './types'
 export const Home: React.FC<{}> = ({ navigation }: any) => {
   const examples: ExampleItem[] = useMemo(
     () => [
-      { name: 'Reanimated 2 start example', route: Routes.RN2StartExample },
-      { name: 'Pan gesture', route: Routes.PanGesture },
-      { name: 'Circular progress - AKA toggl', route: Routes.CircularProgress },
+      {
+        name: 'Reanimated 2 start example',
+        route: Routes.RN2StartExample,
+      },
+      {
+        name: 'Pan gesture',
+        route: Routes.PanGesture,
+      },
+      {
+        name: 'Circular progress - AKA toggl',
+        route: Routes.CircularProgress,
+      },
       {
         name: 'Reflectly color selection',
         route: Routes.ReflectlyColorSelection,
@@ -24,6 +33,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
       {
         name: 'Shared element transition',
         route: Routes.SharedElementTransition,
+      },
+      {
+        name: 'Accordion list',
+        route: Routes.Accordion,
       },
     ],
     [],
