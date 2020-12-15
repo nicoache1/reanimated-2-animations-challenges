@@ -13,22 +13,22 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1483C1464963DD92088F91A9 /* libPods-Reanimated2Playground-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E3DA34E4472C1E02979F9FF8 /* libPods-Reanimated2Playground-tvOSTests.a */; };
 		1546952077E642ABB21A698A /* Radomir Tinkov - RidleyGrotesk-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5D0FD28955AF48398C206571 /* Radomir Tinkov - RidleyGrotesk-Regular.otf */; };
-		1D147DD921586CF76802B669 /* libPods-Reanimated2Playground.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 068DFB68C6BB7BA805EC059C /* libPods-Reanimated2Playground.a */; };
 		24360734B3334E25BA5E6BAE /* Radomir Tinkov - RidleyGrotesk-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B1467137C554422919553D3 /* Radomir Tinkov - RidleyGrotesk-Medium.otf */; };
 		2B7BD1188DE149CFBC57E64E /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A023A5C790AD464A802C6E7C /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* Reanimated2PlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Reanimated2PlaygroundTests.m */; };
+		30109A4A4FC8CC1D4DF437B6 /* libPods-Reanimated2Playground.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CB9609C7040D47A3CECE19D /* libPods-Reanimated2Playground.a */; };
+		306483DF2AE31ACABEBD4BF3 /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0546894E0F66F50D15BB0ADA /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */; };
 		478D4158B0FF423C8301B581 /* Radomir Tinkov - RidleyGrotesk-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 176233C69740451C8BB01CDF /* Radomir Tinkov - RidleyGrotesk-Italic.otf */; };
-		529CDB3B8C654DBE0B97D370 /* libPods-Reanimated2Playground-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C24B61421A2E2DD6D59E93D /* libPods-Reanimated2Playground-tvOS.a */; };
 		61A3DAC78DDE46FF82B5CD8A /* Radomir Tinkov - RidleyGrotesk-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 211FA39063824D5C9F56986D /* Radomir Tinkov - RidleyGrotesk-Bold.otf */; };
+		6221707954C2E4B195418B35 /* libPods-Reanimated2Playground-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9798F9D10A5A203048AFD20D /* libPods-Reanimated2Playground-tvOS.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		886185864F1E2DAE6F7D53E2 /* libPods-Reanimated2Playground-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C31CC146FF3606D7144150C9 /* libPods-Reanimated2Playground-tvOSTests.a */; };
 		8FCFA1980FF64983A49212DC /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0CD4E315BCC54AA891E0F878 /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf */; };
 		9EFD245A6F2D41DEB3682AC4 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E814E229E8CF470588C54F02 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf */; };
-		ACC2BF47B801622C684CFA71 /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 65F62867AC911EAB8572DB5B /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */; };
 		B29FE4587FB04D49A69527A8 /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 994F219D8EA344929FE7537B /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf */; };
 		B6B45FDA49674A6894AC56AC /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4B0DD5283FB74E768EADB871 /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf */; };
 		C8AAB08A19274131B8ABE2AF /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E461D9D8E70B4BCC9F4CAF91 /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf */; };
@@ -62,47 +62,47 @@
 		00E356EE1AD99517003FC87E /* Reanimated2PlaygroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Reanimated2PlaygroundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* Reanimated2PlaygroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Reanimated2PlaygroundTests.m; sourceTree = "<group>"; };
-		068DFB68C6BB7BA805EC059C /* libPods-Reanimated2Playground.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0546894E0F66F50D15BB0ADA /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		06AC09A92C7AB4FC98179239 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
 		0CD4E315BCC54AA891E0F878 /* Radomir Tinkov - RidleyGrotesk-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-BoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-BoldItalic.otf"; sourceTree = "<group>"; };
-		123BAB3071AE9724E8DE5B92 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Reanimated2Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reanimated2Playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Reanimated2Playground/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Reanimated2Playground/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Reanimated2Playground/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Reanimated2Playground/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Reanimated2Playground/main.m; sourceTree = "<group>"; };
+		1663E6E44033FA7323A7FE7C /* Pods-Reanimated2Playground-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		176233C69740451C8BB01CDF /* Radomir Tinkov - RidleyGrotesk-Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Italic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Italic.otf"; sourceTree = "<group>"; };
+		1A90030A07A591A5103E7742 /* Pods-Reanimated2Playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.debug.xcconfig"; sourceTree = "<group>"; };
 		1B1467137C554422919553D3 /* Radomir Tinkov - RidleyGrotesk-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Medium.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Medium.otf"; sourceTree = "<group>"; };
+		1BB5C35A59AE6E81075E1E78 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		1CB9609C7040D47A3CECE19D /* libPods-Reanimated2Playground.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CF36EDAE4964B539B84D04C /* Radomir Tinkov - RidleyGrotesk-BlackItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-BlackItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-BlackItalic.otf"; sourceTree = "<group>"; };
 		211FA39063824D5C9F56986D /* Radomir Tinkov - RidleyGrotesk-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Bold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Bold.otf"; sourceTree = "<group>"; };
-		28A2FD8F17530E80C86D1592 /* Pods-Reanimated2Playground-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* Reanimated2Playground-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reanimated2Playground-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* Reanimated2Playground-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Reanimated2Playground-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		315CBDF7FE78471CB251F49E /* Radomir Tinkov - RidleyGrotesk-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Black.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Black.otf"; sourceTree = "<group>"; };
-		4299EB92228844F868A30968 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		4339C1A53F1E4C5CA7939F86 /* Radomir Tinkov - RidleyGrotesk-ThinItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ThinItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ThinItalic.otf"; sourceTree = "<group>"; };
 		45F148C113D6483BBA3A9C43 /* Radomir Tinkov - RidleyGrotesk-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-MediumItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-MediumItalic.otf"; sourceTree = "<group>"; };
 		4B0DD5283FB74E768EADB871 /* Radomir Tinkov - RidleyGrotesk-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-SemiBold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-SemiBold.otf"; sourceTree = "<group>"; };
 		5D0FD28955AF48398C206571 /* Radomir Tinkov - RidleyGrotesk-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Regular.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Regular.otf"; sourceTree = "<group>"; };
-		65F62867AC911EAB8572DB5B /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Reanimated2Playground/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		848D7D1F23B6D1A20F4A209B /* Pods-Reanimated2Playground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.release.xcconfig"; sourceTree = "<group>"; };
-		8C24B61421A2E2DD6D59E93D /* libPods-Reanimated2Playground-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CFA6AB725DD4817A1D14482 /* Radomir Tinkov - RidleyGrotesk-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Thin.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Thin.otf"; sourceTree = "<group>"; };
+		9798F9D10A5A203048AFD20D /* libPods-Reanimated2Playground-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		994F219D8EA344929FE7537B /* Radomir Tinkov - RidleyGrotesk-ExtraBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ExtraBold.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ExtraBold.otf"; sourceTree = "<group>"; };
 		99956B73D3BD4BFFAFB7318A /* Radomir Tinkov - RidleyGrotesk-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-LightItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-LightItalic.otf"; sourceTree = "<group>"; };
 		A023A5C790AD464A802C6E7C /* Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
-		AD8D8C8C05F765992AE1D409 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
+		A99A7D1D87297769D5F39B42 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		B42E2B67B2A24B9BAA6A393B /* Radomir Tinkov - RidleyGrotesk-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-Light.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-Light.otf"; sourceTree = "<group>"; };
 		BDB02F4B3DA64205A2054CC2 /* Radomir Tinkov - RidleyGrotesk-UltraLight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-UltraLight.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-UltraLight.otf"; sourceTree = "<group>"; };
-		CA9F1B2A45018778E22E26C6 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
-		D32C00086A4D8781F9CF8A81 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOSTests/Pods-Reanimated2Playground-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		E3DA34E4472C1E02979F9FF8 /* libPods-Reanimated2Playground-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C31CC146FF3606D7144150C9 /* libPods-Reanimated2Playground-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Reanimated2Playground-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB4B23303786F0EB23149E9F /* Pods-Reanimated2Playground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.release.xcconfig"; sourceTree = "<group>"; };
+		D42E6A140F7EA70D750AA915 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-tvOS/Pods-Reanimated2Playground-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		E461D9D8E70B4BCC9F4CAF91 /* Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-UltraLightItalic.otf"; sourceTree = "<group>"; };
+		E74552060BDC6E97FA496BAC /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
 		E814E229E8CF470588C54F02 /* Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf"; path = "../src/assets/fonts/Radomir Tinkov - RidleyGrotesk-SemiBoldItalic.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		FFC2517E09A6BB2B4EA50806 /* Pods-Reanimated2Playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reanimated2Playground.debug.xcconfig"; path = "Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACC2BF47B801622C684CFA71 /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a in Frameworks */,
+				306483DF2AE31ACABEBD4BF3 /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -118,7 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D147DD921586CF76802B669 /* libPods-Reanimated2Playground.a in Frameworks */,
+				30109A4A4FC8CC1D4DF437B6 /* libPods-Reanimated2Playground.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,7 +126,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				529CDB3B8C654DBE0B97D370 /* libPods-Reanimated2Playground-tvOS.a in Frameworks */,
+				6221707954C2E4B195418B35 /* libPods-Reanimated2Playground-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -134,7 +134,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1483C1464963DD92088F91A9 /* libPods-Reanimated2Playground-tvOSTests.a in Frameworks */,
+				886185864F1E2DAE6F7D53E2 /* libPods-Reanimated2Playground-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,10 +177,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				068DFB68C6BB7BA805EC059C /* libPods-Reanimated2Playground.a */,
-				65F62867AC911EAB8572DB5B /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */,
-				8C24B61421A2E2DD6D59E93D /* libPods-Reanimated2Playground-tvOS.a */,
-				E3DA34E4472C1E02979F9FF8 /* libPods-Reanimated2Playground-tvOSTests.a */,
+				1CB9609C7040D47A3CECE19D /* libPods-Reanimated2Playground.a */,
+				0546894E0F66F50D15BB0ADA /* libPods-Reanimated2Playground-Reanimated2PlaygroundTests.a */,
+				9798F9D10A5A203048AFD20D /* libPods-Reanimated2Playground-tvOS.a */,
+				C31CC146FF3606D7144150C9 /* libPods-Reanimated2Playground-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -247,14 +247,14 @@
 		F028705D412B6F17B5EDB186 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FFC2517E09A6BB2B4EA50806 /* Pods-Reanimated2Playground.debug.xcconfig */,
-				848D7D1F23B6D1A20F4A209B /* Pods-Reanimated2Playground.release.xcconfig */,
-				CA9F1B2A45018778E22E26C6 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */,
-				AD8D8C8C05F765992AE1D409 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */,
-				4299EB92228844F868A30968 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */,
-				28A2FD8F17530E80C86D1592 /* Pods-Reanimated2Playground-tvOS.release.xcconfig */,
-				123BAB3071AE9724E8DE5B92 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */,
-				D32C00086A4D8781F9CF8A81 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */,
+				1A90030A07A591A5103E7742 /* Pods-Reanimated2Playground.debug.xcconfig */,
+				CB4B23303786F0EB23149E9F /* Pods-Reanimated2Playground.release.xcconfig */,
+				06AC09A92C7AB4FC98179239 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */,
+				E74552060BDC6E97FA496BAC /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */,
+				D42E6A140F7EA70D750AA915 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */,
+				1663E6E44033FA7323A7FE7C /* Pods-Reanimated2Playground-tvOS.release.xcconfig */,
+				A99A7D1D87297769D5F39B42 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */,
+				1BB5C35A59AE6E81075E1E78 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -266,11 +266,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Reanimated2PlaygroundTests" */;
 			buildPhases = (
-				93253C3DDFDC354BAE1A3E6A /* [CP] Check Pods Manifest.lock */,
+				EB0B8FEF5D1EB85051719647 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				FA0BAC48C24510D60A9018D1 /* [CP] Copy Pods Resources */,
+				B87958933564A63514233B9D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -286,13 +286,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Reanimated2Playground" */;
 			buildPhases = (
-				95A80E9487750DD7D1773FAB /* [CP] Check Pods Manifest.lock */,
+				C4D1DF64435F237B45D0EB86 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				0CD0C0E60680B5BB9630597D /* [CP] Copy Pods Resources */,
+				185EBE174378F838D52EE1CC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -307,7 +307,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Reanimated2Playground-tvOS" */;
 			buildPhases = (
-				07E341E6B9696C018ADF6BCE /* [CP] Check Pods Manifest.lock */,
+				43CE9E794378F46DB73C31AA /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -327,7 +327,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Reanimated2Playground-tvOSTests" */;
 			buildPhases = (
-				77FC5ED33BC910DD2BFBE279 /* [CP] Check Pods Manifest.lock */,
+				1DB984B67CF48EB36B177E4A /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -457,29 +457,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		07E341E6B9696C018ADF6BCE /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Reanimated2Playground-tvOS-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		0CD0C0E60680B5BB9630597D /* [CP] Copy Pods Resources */ = {
+		185EBE174378F838D52EE1CC /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -497,21 +475,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Reanimated2Playground/Pods-Reanimated2Playground-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Bundle React Native Code And Images";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
-		};
-		77FC5ED33BC910DD2BFBE279 /* [CP] Check Pods Manifest.lock */ = {
+		1DB984B67CF48EB36B177E4A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -533,7 +497,21 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		93253C3DDFDC354BAE1A3E6A /* [CP] Check Pods Manifest.lock */ = {
+		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native Code And Images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		43CE9E794378F46DB73C31AA /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -548,14 +526,32 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Reanimated2Playground-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		95A80E9487750DD7D1773FAB /* [CP] Check Pods Manifest.lock */ = {
+		B87958933564A63514233B9D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C4D1DF64435F237B45D0EB86 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -577,22 +573,26 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		FA0BAC48C24510D60A9018D1 /* [CP] Copy Pods Resources */ = {
+		EB0B8FEF5D1EB85051719647 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-resources.sh",
-				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			inputFileListPaths = (
 			);
-			name = "[CP] Copy Pods Resources";
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+				"$(DERIVED_FILE_DIR)/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Reanimated2Playground-Reanimated2PlaygroundTests/Pods-Reanimated2Playground-Reanimated2PlaygroundTests-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -688,7 +688,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA9F1B2A45018778E22E26C6 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */;
+			baseConfigurationReference = 06AC09A92C7AB4FC98179239 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -711,7 +711,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD8D8C8C05F765992AE1D409 /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */;
+			baseConfigurationReference = E74552060BDC6E97FA496BAC /* Pods-Reanimated2Playground-Reanimated2PlaygroundTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -731,7 +731,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FFC2517E09A6BB2B4EA50806 /* Pods-Reanimated2Playground.debug.xcconfig */;
+			baseConfigurationReference = 1A90030A07A591A5103E7742 /* Pods-Reanimated2Playground.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -755,7 +755,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 848D7D1F23B6D1A20F4A209B /* Pods-Reanimated2Playground.release.xcconfig */;
+			baseConfigurationReference = CB4B23303786F0EB23149E9F /* Pods-Reanimated2Playground.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -777,7 +777,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4299EB92228844F868A30968 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */;
+			baseConfigurationReference = D42E6A140F7EA70D750AA915 /* Pods-Reanimated2Playground-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -805,7 +805,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 28A2FD8F17530E80C86D1592 /* Pods-Reanimated2Playground-tvOS.release.xcconfig */;
+			baseConfigurationReference = 1663E6E44033FA7323A7FE7C /* Pods-Reanimated2Playground-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -833,7 +833,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 123BAB3071AE9724E8DE5B92 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = A99A7D1D87297769D5F39B42 /* Pods-Reanimated2Playground-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -860,7 +860,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D32C00086A4D8781F9CF8A81 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 1BB5C35A59AE6E81075E1E78 /* Pods-Reanimated2Playground-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;

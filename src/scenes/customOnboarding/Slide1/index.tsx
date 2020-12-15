@@ -1,7 +1,7 @@
 import React from 'react'
 import { Dimensions, Text, View } from 'react-native'
 import Svg, { Path } from 'react-native-svg'
-import Cyborg from 'src/assets/customOnboarding/cyborg_1.svg'
+import Cyborg from 'src/assets/images/customOnboarding/cyborg_1.svg'
 
 import { styles } from './styles'
 

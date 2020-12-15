@@ -8,6 +8,7 @@ import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
 
 import { Routes } from './Routes'
+import { SharedElementStackNavigator } from './stacks/sharedElementStackNavigator'
 
 const Stack = createStackNavigator()
 
@@ -31,6 +32,10 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.CustomOnboarding}
         component={CustomOnboarding}
+      />
+      <Stack.Screen
+        name={Routes.SharedElementTransition}
+        component={SharedElementStackNavigator}
       />
     </Stack.Navigator>
   )

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Dimensions, StyleSheet, Text, View } from 'react-native'
 import Svg, { Path } from 'react-native-svg'
-import Cyborg from 'src/assets/customOnboarding/cyborg_4.svg'
+import Cyborg from 'src/assets/images/customOnboarding/cyborg_4.svg'
 
 const { width } = Dimensions.get('window')
 

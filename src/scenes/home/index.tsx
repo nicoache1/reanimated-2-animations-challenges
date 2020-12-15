@@ -21,6 +21,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Custom onboarding',
         route: Routes.CustomOnboarding,
       },
+      {
+        name: 'Shared element transition',
+        route: Routes.SharedElementTransition,
+      },
     ],
     [],
   )

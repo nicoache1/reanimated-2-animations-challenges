@@ -8,7 +8,7 @@ import Animated, {
   useSharedValue,
   withTiming,
 } from 'react-native-reanimated'
-import Circle from 'src/assets/customOnboarding/circle.svg'
+import Circle from 'src/assets/images/customOnboarding/circle.svg'
 import { Routes } from 'src/navigation/Routes'
 import { ScreenNavigationProp } from 'src/types/react-navigation'
 

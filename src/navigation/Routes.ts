@@ -6,4 +6,7 @@ export enum Routes {
   CircularProgress = 'CircularProgress',
   ReflectlyColorSelection = 'ReflectlyColorSelection',
   CustomOnboarding = 'CustomOnboarding',
+  SharedElementTransition = 'SharedElementTransition',
+  Snapchat = 'Snapchat',
+  SnapchatStory = 'SnapchatStory',
 }
