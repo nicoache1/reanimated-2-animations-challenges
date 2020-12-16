@@ -10,4 +10,5 @@ export enum Routes {
   Snapchat = 'Snapchat',
   SnapchatStory = 'SnapchatStory',
   Accordion = 'Accordion',
+  TabBarCustom = 'TabBarCustom',
 }

@@ -7,6 +7,7 @@ import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
+import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
 import { SharedElementStackNavigator } from './stacks/sharedElementStackNavigator'
@@ -39,6 +40,7 @@ export const AppContainer: React.FC<{}> = () => {
         component={SharedElementStackNavigator}
       />
       <Stack.Screen name={Routes.Accordion} component={AccordionList} />
+      <Stack.Screen name={Routes.TabBarCustom} component={TabBarCustom} />
     </Stack.Navigator>
   )
 }

@@ -38,6 +38,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Accordion list',
         route: Routes.Accordion,
       },
+      {
+        name: 'Custom tab bar',
+        route: Routes.TabBarCustom,
+      },
     ],
     [],
   )
