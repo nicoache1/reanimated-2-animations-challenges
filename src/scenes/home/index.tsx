@@ -42,6 +42,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Custom tab bar',
         route: Routes.TabBarCustom,
       },
+      {
+        name: 'Skate challenge',
+        route: Routes.SkateChallenge,
+      },
     ],
     [],
   )

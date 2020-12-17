@@ -10,6 +10,7 @@ import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdate
 import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
+import { SharedElementSkateNavigator } from './stacks/sharedElementSkateNavigator'
 import { SharedElementStackNavigator } from './stacks/sharedElementStackNavigator'
 
 const Stack = createStackNavigator()
@@ -41,6 +42,11 @@ export const AppContainer: React.FC<{}> = () => {
       />
       <Stack.Screen name={Routes.Accordion} component={AccordionList} />
       <Stack.Screen name={Routes.TabBarCustom} component={TabBarCustom} />
+      <Stack.Screen
+        name={Routes.SkateChallenge}
+        component={SharedElementSkateNavigator}
+        options={{ headerShown: false }}
+      />
     </Stack.Navigator>
   )
 }

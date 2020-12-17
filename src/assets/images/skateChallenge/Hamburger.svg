@@ -1,0 +1,10 @@
+<svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.5" y="1.5" width="10.05" height="10.05" rx="5.025" stroke="currentStroke" stroke-width="3"
+    stroke-linejoin="round" />
+  <rect x="1.5" y="17.45" width="10.05" height="10.05" rx="5.025" stroke="currentStroke" stroke-width="3"
+    stroke-linejoin="round" />
+  <rect x="17.45" y="1.5" width="10.05" height="10.05" rx="5.025" stroke="currentStroke" stroke-width="3"
+    stroke-linejoin="round" />
+  <rect x="17.45" y="17.45" width="10.05" height="10.05" rx="5.025" stroke="currentStroke" stroke-width="3"
+    stroke-linejoin="round" />
+</svg>
