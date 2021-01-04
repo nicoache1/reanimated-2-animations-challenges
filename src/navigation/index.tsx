@@ -6,6 +6,7 @@ import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
+import { SpotifyPlayer } from 'src/scenes/spotifyPlayer'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
 import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
@@ -47,6 +48,7 @@ export const AppContainer: React.FC<{}> = () => {
         component={SharedElementSkateNavigator}
         options={{ headerShown: false }}
       />
+      <Stack.Screen name={Routes.SpotifyPlayer} component={SpotifyPlayer} />
     </Stack.Navigator>
   )
 }

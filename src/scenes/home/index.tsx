@@ -46,6 +46,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Skate challenge',
         route: Routes.SkateChallenge,
       },
+      {
+        name: 'Spotify clone',
+        route: Routes.SpotifyPlayer,
+      },
     ],
     [],
   )
