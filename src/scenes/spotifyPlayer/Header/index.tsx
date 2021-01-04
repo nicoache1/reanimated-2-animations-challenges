@@ -25,6 +25,16 @@ export const Header: React.FC<LayoutProps> = ({ artist, offsetY }) => {
       [0, 1],
       Extrapolate.CLAMP,
     ),
+    transform: [
+      {
+        translateY: interpolate(
+          offsetY.value,
+          [0, MAX_HEADER_HEIGHT / 10],
+          [-100, 0],
+          Extrapolate.CLAMP,
+        ),
+      },
+    ],
   }))
 
   const animatedGradient = useAnimatedStyle(() => ({

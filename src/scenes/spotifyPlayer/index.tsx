@@ -10,6 +10,7 @@ import { Routes } from 'src/navigation/Routes'
 import { ScreenNavigationProp } from 'src/types/react-navigation'
 
 import { album } from './album'
+import { BottomTab } from './BottomTab/BottomTab'
 import { Content } from './Content'
 import { Cover } from './Cover'
 import { Header } from './Header'
@@ -49,6 +50,7 @@ export const SpotifyPlayer: React.FC<ScreenProps> = ({ navigation }) => {
           offsetY={offsetY}
           onScroll={onScroll}
         />
+        <BottomTab />
       </View>
     </SceneContainer>
   )
