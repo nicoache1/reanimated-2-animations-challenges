@@ -50,6 +50,10 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
         name: 'Spotify clone',
         route: Routes.SpotifyPlayer,
       },
+      {
+        name: 'Sticky shapes',
+        route: Routes.StickyShapes,
+      },
     ],
     [],
   )

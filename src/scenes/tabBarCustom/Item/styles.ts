@@ -8,12 +8,13 @@ export const styles = StyleSheet.create({
   internalLabel: {
     borderRadius: 30,
     flexDirection: 'row',
-    paddingHorizontal: 15,
+    paddingHorizontal: 5,
     paddingVertical: 15,
   },
   label: {
     fontFamily: 'Ridley Grotesk Bold',
-    fontSize: 16,
+    fontSize: 14,
+    width: '100%',
   },
   labelContainer: {
     justifyContent: 'center',

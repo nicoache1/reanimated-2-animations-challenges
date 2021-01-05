@@ -42,7 +42,6 @@ export const SharedElementSkateNavigator = () => (
     <Stack.Screen
       name={Routes.SkateDetail}
       component={SkateDetail}
-      // options={{ headerShown: false }}
       sharedElements={(route) => {
         return [route.params.skate.id]
       }}

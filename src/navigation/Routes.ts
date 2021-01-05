@@ -15,4 +15,5 @@ export enum Routes {
   SkateDetail = 'SkateDetail',
   SkateChallenge = 'SkateChallenge',
   SpotifyPlayer = 'SpotifyPlayer',
+  StickyShapes = 'StickyShapes',
 }

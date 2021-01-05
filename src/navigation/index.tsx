@@ -8,6 +8,7 @@ import { PanGesture } from 'src/scenes/panGesture'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { SpotifyPlayer } from 'src/scenes/spotifyPlayer'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
+import { StickyShapes } from 'src/scenes/stickyShapes'
 import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
@@ -49,6 +50,7 @@ export const AppContainer: React.FC<{}> = () => {
         options={{ headerShown: false }}
       />
       <Stack.Screen name={Routes.SpotifyPlayer} component={SpotifyPlayer} />
+      <Stack.Screen name={Routes.StickyShapes} component={StickyShapes} />
     </Stack.Navigator>
   )
 }

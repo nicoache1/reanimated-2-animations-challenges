@@ -24,43 +24,41 @@ interface LayoutProps {
   onPress: () => void
 }
 
-export const Player: React.FC<LayoutProps> = ({ onPress }) => {
-  return (
-    <SafeAreaView style={styles.root}>
-      <LinearGradient
-        colors={['#0b3057', '#051c30']}
-        style={StyleSheet.absoluteFill}
-      />
-      <View style={styles.container}>
-        <View style={styles.header}>
-          <TouchableWithoutFeedback
-            style={styles.button}
-            onPress={onPress}
-            hitSlop={{ bottom: 20, left: 20, right: 20, top: 20 }}>
-            <ChevronDown />
-          </TouchableWithoutFeedback>
-          <Text style={styles.title}>Ariana Grande</Text>
-          <TouchableWithoutFeedback style={styles.button}>
-            <MoreIcon />
-          </TouchableWithoutFeedback>
-        </View>
-        <Image source={ArianaCover} style={styles.cover} />
-        <View style={styles.metadata}>
-          <View>
-            <Text style={styles.song}>Positions</Text>
-            <Text style={styles.artist}>Ariana Grande</Text>
-          </View>
-          <FavoriteIcon />
-        </View>
-        <View style={styles.slider} />
-        <View style={styles.controls}>
-          <ShuffleIcon />
-          <StepBackwardIcon />
-          <PlayIcon />
-          <StepForwardIcon />
-          <RepeatIcon />
-        </View>
+export const Player: React.FC<LayoutProps> = ({ onPress }) => (
+  <SafeAreaView style={styles.root}>
+    <LinearGradient
+      colors={['#0b3057', '#051c30']}
+      style={StyleSheet.absoluteFill}
+    />
+    <View style={styles.container}>
+      <View style={styles.header}>
+        <TouchableWithoutFeedback
+          style={styles.button}
+          onPress={onPress}
+          hitSlop={{ bottom: 20, left: 20, right: 20, top: 20 }}>
+          <ChevronDown />
+        </TouchableWithoutFeedback>
+        <Text style={styles.title}>Ariana Grande</Text>
+        <TouchableWithoutFeedback style={styles.button}>
+          <MoreIcon />
+        </TouchableWithoutFeedback>
       </View>
-    </SafeAreaView>
-  )
-}
+      <Image source={ArianaCover} style={styles.cover} />
+      <View style={styles.metadata}>
+        <View>
+          <Text style={styles.song}>Positions</Text>
+          <Text style={styles.artist}>Ariana Grande</Text>
+        </View>
+        <FavoriteIcon />
+      </View>
+      <View style={styles.slider} />
+      <View style={styles.controls}>
+        <ShuffleIcon />
+        <StepBackwardIcon />
+        <PlayIcon />
+        <StepForwardIcon />
+        <RepeatIcon />
+      </View>
+    </View>
+  </SafeAreaView>
+)

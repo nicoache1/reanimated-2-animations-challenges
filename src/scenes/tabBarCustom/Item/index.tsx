@@ -36,9 +36,9 @@ export const Item: React.FC<LayoutProps> = ({
 
   useEffect(() => {
     if (active === true) {
-      widthAnimated.value = withTiming(1.8, { duration: 400 })
-      opacity.value = withTiming(1, { duration: 400 })
-      heightAnimated.value = withTiming(25, { duration: 400 })
+      widthAnimated.value = withTiming(1.8, { duration: 200 })
+      opacity.value = withTiming(1, { duration: 200 })
+      heightAnimated.value = withTiming(25, { duration: 200 })
     } else {
       widthAnimated.value = withTiming(INITIAL_FLEX)
       opacity.value = withTiming(0)
@@ -53,7 +53,6 @@ export const Item: React.FC<LayoutProps> = ({
 
   const labelStyle = useAnimatedStyle(() => ({
     height: heightAnimated.value,
-
     opacity: opacity.value,
   }))
 
