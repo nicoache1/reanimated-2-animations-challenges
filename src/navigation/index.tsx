@@ -1,6 +1,7 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
 import { AccordionList } from 'src/scenes/accordion'
+import { ChanelScroll } from 'src/scenes/chanelScroll'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
@@ -20,7 +21,11 @@ const Stack = createStackNavigator()
 export const AppContainer: React.FC<{}> = () => {
   return (
     <Stack.Navigator>
-      <Stack.Screen name={Routes.Home} component={Home} />
+      <Stack.Screen
+        name={Routes.Home}
+        component={Home}
+        options={{ headerShown: false }}
+      />
       <Stack.Screen
         name={Routes.RN2StartExample}
         component={AnimatedStyleUpdateExample}
@@ -51,6 +56,11 @@ export const AppContainer: React.FC<{}> = () => {
       />
       <Stack.Screen name={Routes.SpotifyPlayer} component={SpotifyPlayer} />
       <Stack.Screen name={Routes.StickyShapes} component={StickyShapes} />
+      <Stack.Screen
+        name={Routes.ChanelScroll}
+        component={ChanelScroll}
+        options={{ headerShown: false }}
+      />
     </Stack.Navigator>
   )
 }

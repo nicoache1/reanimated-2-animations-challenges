@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react'
 import {
-  Dimensions,
   NativeScrollEvent,
   NativeSyntheticEvent,
   StyleSheet,
@@ -24,8 +23,6 @@ interface LayoutProps {
   offsetY: Animated.SharedValue<number>
   onScroll: (event: NativeSyntheticEvent<NativeScrollEvent>) => void
 }
-
-const { height } = Dimensions.get('window')
 
 export const Content: React.FC<LayoutProps> = ({
   artist,
