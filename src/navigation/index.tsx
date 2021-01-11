@@ -6,6 +6,7 @@ import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
+import { RainbowCharts } from 'src/scenes/rainbowCharts'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { SpotifyPlayer } from 'src/scenes/spotifyPlayer'
 import { AnimatedStyleUpdateExample } from 'src/scenes/start/AnimatedStyleUpdateExample'
@@ -61,6 +62,7 @@ export const AppContainer: React.FC<{}> = () => {
         component={ChanelScroll}
         options={{ headerShown: false }}
       />
+      <Stack.Screen name={Routes.RainbowCharts} component={RainbowCharts} />
     </Stack.Navigator>
   )
 }

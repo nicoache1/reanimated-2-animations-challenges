@@ -17,4 +17,5 @@ export enum Routes {
   SpotifyPlayer = 'SpotifyPlayer',
   StickyShapes = 'StickyShapes',
   ChanelScroll = 'ChanelScroll',
+  RainbowCharts = 'RainbowCharts',
 }

@@ -20,15 +20,16 @@ import { styles } from './styles'
 const snapPoints = examples.map((_, index) => index * -MAX_HEIGHT)
 
 export const Home: React.FC<{}> = ({ navigation }: any) => {
-  const onPress = useCallback(
-    (route: Routes) => () => {
-      navigation.push(route)
-    },
-    [navigation],
-  )
-
   const translateY = useSharedValue<number>(0)
 
+  const onPress = useCallback(
+    (route: Routes, index: number) => () => {
+      if (translateY.value === index * -MAX_HEIGHT) {
+        navigation.push(route)
+      }
+    },
+    [navigation, translateY],
+  )
   const gestureHandler = useAnimatedGestureHandler<
     PanGestureHandlerGestureEvent,
     { offsetY: number }
@@ -63,7 +64,7 @@ export const Home: React.FC<{}> = ({ navigation }: any) => {
               key={index}
               index={index}
               offsetY={translateY}
-              onPress={onPress(item.route)}
+              onPress={onPress(item.route, index)}
             />
           ))}
         </Animated.View>

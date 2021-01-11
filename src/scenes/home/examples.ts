@@ -99,4 +99,12 @@ export const examples: HomeItem[] = [
     subtitle: 'Cool UX scroll FT William Candillion',
     title: 'Chanel scroll',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: '#4a4e69',
+    },
+    route: Routes.RainbowCharts,
+    subtitle: 'Cool charts FT William Candillion',
+    title: 'Rainbow charts',
+  },
 ]
