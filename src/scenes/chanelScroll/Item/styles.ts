@@ -16,6 +16,12 @@ export const styles = StyleSheet.create({
     padding: 32,
     transform: [{ translateY: 64 }],
   },
+  picture: {
+    ...StyleSheet.absoluteFillObject,
+    height: undefined,
+    resizeMode: 'cover',
+    width: undefined,
+  },
   subtitle: {
     color: 'white',
     fontSize: 16,
@@ -23,7 +29,7 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
   },
   title: {
-    color: 'white',
+    color: 'black',
     fontSize: 32,
     fontWeight: '500',
     textAlign: 'center',

@@ -10,8 +10,9 @@ import Animated, {
   withSpring,
 } from 'react-native-reanimated'
 import { clamp, snapPoint } from 'react-native-redash'
+import { Item } from 'src/scenes/chanelScroll/Item'
+import { MAX_HEIGHT } from 'src/scenes/chanelScroll/Item/types'
 
-import { Item, MAX_HEIGHT } from './Item'
 import { items } from './items'
 
 interface ChanelScrollProps {}

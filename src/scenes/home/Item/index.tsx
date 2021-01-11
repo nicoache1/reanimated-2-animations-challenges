@@ -1,61 +1,58 @@
 import React from 'react'
-import { Text, View } from 'react-native'
-import {
-  TapGestureHandler,
-  TapGestureHandlerGestureEvent,
-} from 'react-native-gesture-handler'
+import { Text, TouchableOpacity, View } from 'react-native'
+// import { TouchableOpacity } from 'react-native-gesture-handler'
+// import { TouchableWithoutFeedback } from 'react-native-gesture-handler'
 import Animated, {
+  Extrapolate,
   interpolate,
-  runOnJS,
-  useAnimatedGestureHandler,
   useAnimatedStyle,
-  useSharedValue,
-  withSpring,
 } from 'react-native-reanimated'
 
+import { HomeItem } from '../types'
 import { styles } from './styles'
+import { MAX_HEIGHT, MIN_HEIGHT } from './types'
 
-interface LayoutProps {
-  label: String
+interface ItemProps {
+  item: HomeItem
+  offsetY: Animated.SharedValue<number>
+  index: number
   onPress: () => void
-  scrollAnimation: Animated.SharedValue<number>
 }
 
-export const Item: React.FC<LayoutProps> = ({
-  label,
+export const Item: React.FC<ItemProps> = ({
+  item,
+  offsetY,
+  index,
   onPress,
-  scrollAnimation,
 }) => {
-  const progress = useSharedValue<number>(0)
+  const inputRange = [(index - 1) * MAX_HEIGHT, index * MAX_HEIGHT]
+  const animatedContainer = useAnimatedStyle(() => ({
+    height: interpolate(
+      -offsetY.value,
+      inputRange,
+      [MIN_HEIGHT, MAX_HEIGHT],
+      Extrapolate.CLAMP,
+    ),
+    top: offsetY.value,
+  }))
 
-  const tapGestureEvent = useAnimatedGestureHandler<
-    TapGestureHandlerGestureEvent,
-    any
-  >({
-    onActive: () => {
-      progress.value = withSpring(1, undefined, () => {
-        progress.value = 0
-        runOnJS(onPress)()
-      })
-    },
-  })
-
-  const animatedStyle = useAnimatedStyle(() => ({
-    transform: [
-      { scale: interpolate(progress.value, [0, 0.5, 1], [1, 1.1, 1]) },
-      {
-        scaleY: interpolate(scrollAnimation.value, [0, 1], [1, 0.85]),
-      },
-    ],
+  const animatedTitle = useAnimatedStyle(() => ({
+    opacity: interpolate(-offsetY.value, inputRange, [0, 1], Extrapolate.CLAMP),
   }))
 
   return (
-    <TapGestureHandler onGestureEvent={tapGestureEvent}>
-      <Animated.View style={[styles.container, animatedStyle]}>
-        <View style={styles.row}>
-          <Text style={styles.text}>{label}</Text>
-        </View>
-      </Animated.View>
-    </TapGestureHandler>
+    <Animated.View
+      style={[styles.container, animatedContainer, item.backgroundStyle]}>
+      <TouchableOpacity style={styles.titleContainer} onPress={onPress}>
+        <>
+          <Text style={styles.subtitle}>{item.subtitle.toUpperCase()}</Text>
+          <View style={styles.mainTitle}>
+            <Animated.View style={animatedTitle}>
+              <Text style={styles.title}>{item.title.toUpperCase()}</Text>
+            </Animated.View>
+          </View>
+        </>
+      </TouchableOpacity>
+    </Animated.View>
   )
 }

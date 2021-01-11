@@ -1,54 +1,102 @@
 import { Routes } from 'src/navigation/Routes'
 
-import { ExampleItem } from './types'
+import { HomeItem } from './types'
 
-export const examples: ExampleItem[] = [
+export const examples: HomeItem[] = [
   {
-    name: 'Start Reanimated2',
+    backgroundStyle: {
+      backgroundColor: '#1d3557',
+    },
     route: Routes.RN2StartExample,
+    subtitle: 'First animation example in Reanimated 2',
+    title: 'Start Reanimated2',
   },
   {
-    name: 'Pan gesture',
+    backgroundStyle: {
+      backgroundColor: '#e63946',
+    },
     route: Routes.PanGesture,
+    subtitle: 'Drag and Drop across the screen',
+    title: 'Pan gesture',
   },
   {
-    name: 'Toggl',
+    backgroundStyle: {
+      backgroundColor: '#2a9d8f',
+    },
     route: Routes.CircularProgress,
+    subtitle: 'Circular progress changing color!',
+    title: 'Toggl',
   },
   {
-    name: 'Reflectly color selection',
+    backgroundStyle: {
+      backgroundColor: '#023e8a',
+    },
     route: Routes.ReflectlyColorSelection,
+    subtitle: 'Reflectly like changing color!',
+    title: 'Reflectly color selection',
   },
   {
-    name: 'Custom onboarding',
+    backgroundStyle: {
+      backgroundColor: '#264653',
+    },
     route: Routes.CustomOnboarding,
+    subtitle: 'A cool way to introduce your app',
+    title: 'Custom onboarding',
   },
   {
-    name: 'Instagram gallery',
+    backgroundStyle: {
+      backgroundColor: '#fca311',
+    },
     route: Routes.SharedElementTransition,
+    subtitle: 'Instagram like gallery transition',
+    title: 'Instagram gallery',
   },
   {
-    name: 'Accordion list',
+    backgroundStyle: {
+      backgroundColor: '#9d0208',
+    },
     route: Routes.Accordion,
+    subtitle: 'A collapsible list',
+    title: 'Accordion list',
   },
   {
-    name: 'Custom tab bar',
+    backgroundStyle: {
+      backgroundColor: '#6d597a',
+    },
     route: Routes.TabBarCustom,
+    subtitle: 'A custom tab bar with cool UX',
+    title: 'Custom tab bar',
   },
   {
-    name: 'Skate challenge',
+    backgroundStyle: {
+      backgroundColor: '#212529',
+    },
     route: Routes.SkateChallenge,
+    subtitle: 'Skate challenge from Dribbble',
+    title: 'Skate challenge',
   },
   {
-    name: 'Spotify clone',
+    backgroundStyle: {
+      backgroundColor: '#007f5f',
+    },
     route: Routes.SpotifyPlayer,
+    subtitle: 'Spotify player and list clone',
+    title: 'Spotify clone',
   },
   {
-    name: 'Sticky shapes',
+    backgroundStyle: {
+      backgroundColor: '#5f0f40',
+    },
     route: Routes.StickyShapes,
+    subtitle: 'Cool morphing shapes FT William Candillion',
+    title: 'Sticky shapes',
   },
   {
-    name: 'Chanel scroll',
+    backgroundStyle: {
+      backgroundColor: '#00509d',
+    },
     route: Routes.ChanelScroll,
+    subtitle: 'Cool UX scroll FT William Candillion',
+    title: 'Chanel scroll',
   },
 ]
