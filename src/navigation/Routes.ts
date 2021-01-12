@@ -18,4 +18,5 @@ export enum Routes {
   StickyShapes = 'StickyShapes',
   ChanelScroll = 'ChanelScroll',
   RainbowCharts = 'RainbowCharts',
+  BouncingBall = 'BouncingBall',
 }

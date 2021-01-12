@@ -107,4 +107,12 @@ export const examples: HomeItem[] = [
     subtitle: 'Cool charts FT William Candillion',
     title: 'Rainbow charts',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: '#480ca8',
+    },
+    route: Routes.BouncingBall,
+    subtitle: 'Bouncing ball in football field',
+    title: 'Bouncing Ball',
+  },
 ]

@@ -1,6 +1,7 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
 import { AccordionList } from 'src/scenes/accordion'
+import { BouncingBall } from 'src/scenes/bouncingBall'
 import { ChanelScroll } from 'src/scenes/chanelScroll'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
@@ -63,6 +64,7 @@ export const AppContainer: React.FC<{}> = () => {
         options={{ headerShown: false }}
       />
       <Stack.Screen name={Routes.RainbowCharts} component={RainbowCharts} />
+      <Stack.Screen name={Routes.BouncingBall} component={BouncingBall} />
     </Stack.Navigator>
   )
 }

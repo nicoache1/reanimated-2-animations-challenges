@@ -19,6 +19,7 @@ This repo contains a React Native project with animations challenges and example
 - [Sticky Shapes](#sticky-shapes)
 - [Chanel Scroll](#chanel-scroll)
 - [Rainbow Charts](#rainbow-charts)
+- [Bouncing Ball](#bouncing-ball)
 
 ## Reanimated 2 Example
 
@@ -129,6 +130,14 @@ Rainbow Charts guided by William Candillon in in `Can It Be Done in React Native
 <br></br>
 
 <img src="./src/assets/examples/rainbowCharts.gif" width="200" height="450"  />
+<br></br>
+
+## Bouncing Ball
+
+Continuous animation of a ball in a soccer field
+<br></br>
+
+<img src="./src/assets/examples/bouncingBall.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements
