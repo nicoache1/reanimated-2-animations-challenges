@@ -20,6 +20,7 @@ This repo contains a React Native project with animations challenges and example
 - [Chanel Scroll](#chanel-scroll)
 - [Rainbow Charts](#rainbow-charts)
 - [Bouncing Ball](#bouncing-ball)
+- [Paper Switch](#paper-switch)
 
 ## Reanimated 2 Example
 
@@ -140,6 +141,15 @@ Continuous animation of a ball in a soccer field
 <img src="./src/assets/examples/bouncingBall.gif" width="200" height="450"  />
 <br></br>
 
+## Paper Switch
+
+Inspiration from Ramotion and his Paper Switch for SwiftUI
+<br></br>
+
+<img src="./src/assets/examples/paperSwitch.gif" width="200" height="450"  />
+<br></br>
+
 ## Acknowledgements
 
-Thanks [@wcandillon](https://github.com/wcandillon) for `react-native-redash` and all of your amazing videos and courses
+- [@wcandillon](https://github.com/wcandillon) for `react-native-redash` and all of your amazing videos and courses.
+- [@ramotion](https://github.com/Ramotion)

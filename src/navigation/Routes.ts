@@ -19,4 +19,5 @@ export enum Routes {
   ChanelScroll = 'ChanelScroll',
   RainbowCharts = 'RainbowCharts',
   BouncingBall = 'BouncingBall',
+  PaperSwitch = 'PaperSwitch',
 }

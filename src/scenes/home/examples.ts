@@ -2,10 +2,27 @@ import { Routes } from 'src/navigation/Routes'
 
 import { HomeItem } from './types'
 
+const COLORS = [
+  '#1d3557',
+  '#e63946',
+  '#2a9d8f',
+  '#023e8a',
+  '#264653',
+  '#fca311',
+  '#9d0208',
+  '#6d597a',
+  '#212529',
+  '#007f5f',
+  '#5f0f40',
+  '#00509d',
+  '#4a4e69',
+  '#480ca8',
+]
+
 export const examples: HomeItem[] = [
   {
     backgroundStyle: {
-      backgroundColor: '#1d3557',
+      backgroundColor: COLORS[0 % COLORS.length],
     },
     route: Routes.RN2StartExample,
     subtitle: 'First animation example in Reanimated 2',
@@ -13,7 +30,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#e63946',
+      backgroundColor: COLORS[1 % COLORS.length],
     },
     route: Routes.PanGesture,
     subtitle: 'Drag and Drop across the screen',
@@ -21,7 +38,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#2a9d8f',
+      backgroundColor: COLORS[2 % COLORS.length],
     },
     route: Routes.CircularProgress,
     subtitle: 'Circular progress changing color!',
@@ -29,7 +46,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#023e8a',
+      backgroundColor: COLORS[3 % COLORS.length],
     },
     route: Routes.ReflectlyColorSelection,
     subtitle: 'Reflectly like changing color!',
@@ -37,7 +54,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#264653',
+      backgroundColor: COLORS[4 % COLORS.length],
     },
     route: Routes.CustomOnboarding,
     subtitle: 'A cool way to introduce your app',
@@ -45,7 +62,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#fca311',
+      backgroundColor: COLORS[5 % COLORS.length],
     },
     route: Routes.SharedElementTransition,
     subtitle: 'Instagram like gallery transition',
@@ -53,7 +70,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#9d0208',
+      backgroundColor: COLORS[6 % COLORS.length],
     },
     route: Routes.Accordion,
     subtitle: 'A collapsible list',
@@ -61,7 +78,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#6d597a',
+      backgroundColor: COLORS[7 % COLORS.length],
     },
     route: Routes.TabBarCustom,
     subtitle: 'A custom tab bar with cool UX',
@@ -69,7 +86,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#212529',
+      backgroundColor: COLORS[8 % COLORS.length],
     },
     route: Routes.SkateChallenge,
     subtitle: 'Skate challenge from Dribbble',
@@ -77,7 +94,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#007f5f',
+      backgroundColor: COLORS[9 % COLORS.length],
     },
     route: Routes.SpotifyPlayer,
     subtitle: 'Spotify player and list clone',
@@ -85,7 +102,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#5f0f40',
+      backgroundColor: COLORS[10 % COLORS.length],
     },
     route: Routes.StickyShapes,
     subtitle: 'Cool morphing shapes FT William Candillion',
@@ -93,7 +110,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#00509d',
+      backgroundColor: COLORS[11 % COLORS.length],
     },
     route: Routes.ChanelScroll,
     subtitle: 'Cool UX scroll FT William Candillion',
@@ -101,7 +118,7 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#4a4e69',
+      backgroundColor: COLORS[12 % COLORS.length],
     },
     route: Routes.RainbowCharts,
     subtitle: 'Cool charts FT William Candillion',
@@ -109,10 +126,18 @@ export const examples: HomeItem[] = [
   },
   {
     backgroundStyle: {
-      backgroundColor: '#480ca8',
+      backgroundColor: COLORS[13 % COLORS.length],
     },
     route: Routes.BouncingBall,
     subtitle: 'Bouncing ball in football field',
     title: 'Bouncing Ball',
+  },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[14 % COLORS.length],
+    },
+    route: Routes.PaperSwitch,
+    subtitle: 'A switch that paints the background of the parent',
+    title: 'Paper Switch',
   },
 ]

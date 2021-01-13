@@ -7,6 +7,7 @@ import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
+import { PaperSwitch } from 'src/scenes/paperSwitch'
 import { RainbowCharts } from 'src/scenes/rainbowCharts'
 import { ReflectlyColorSelection } from 'src/scenes/reflectlyColorSelection'
 import { SpotifyPlayer } from 'src/scenes/spotifyPlayer'
@@ -65,6 +66,7 @@ export const AppContainer: React.FC<{}> = () => {
       />
       <Stack.Screen name={Routes.RainbowCharts} component={RainbowCharts} />
       <Stack.Screen name={Routes.BouncingBall} component={BouncingBall} />
+      <Stack.Screen name={Routes.PaperSwitch} component={PaperSwitch} />
     </Stack.Navigator>
   )
 }
