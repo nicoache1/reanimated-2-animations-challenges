@@ -148,4 +148,12 @@ export const examples: HomeItem[] = [
     subtitle: 'Fold view in React Native',
     title: 'Folding Cell',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[16 % COLORS.length],
+    },
+    route: Routes.LoveSlider,
+    subtitle: 'A cute slider',
+    title: 'Love Slider',
+  },
 ]

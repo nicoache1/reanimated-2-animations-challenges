@@ -21,6 +21,8 @@ This repo contains a React Native project with animations challenges and example
 - [Rainbow Charts](#rainbow-charts)
 - [Bouncing Ball](#bouncing-ball)
 - [Paper Switch](#paper-switch)
+- [Folding Cell](#folding-cell)
+- [Love Slider](#love-slider)
 
 ## Reanimated 2 Example
 
@@ -155,6 +157,14 @@ Inspiration from Ramotion his Folding Cell for SwiftUI
 <br></br>
 
 <img src="./src/assets/examples/foldingCell.gif" width="200" height="450"  />
+<br></br>
+
+## Love Slider
+
+Inspiration from [dribbble Love Slider](https://dribbble.com/shots/14642802-Love-Slider)
+<br></br>
+
+<img src="./src/assets/examples/loveSlider.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements

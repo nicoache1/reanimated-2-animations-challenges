@@ -21,4 +21,5 @@ export enum Routes {
   BouncingBall = 'BouncingBall',
   PaperSwitch = 'PaperSwitch',
   FoldingCell = 'FoldingCell',
+  LoveSlider = 'LoveSlider',
 }
