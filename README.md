@@ -149,6 +149,14 @@ Inspiration from Ramotion and his Paper Switch for SwiftUI
 <img src="./src/assets/examples/paperSwitch.gif" width="200" height="450"  />
 <br></br>
 
+## Folding Cell
+
+Inspiration from Ramotion his Folding Cell for SwiftUI
+<br></br>
+
+<img src="./src/assets/examples/foldingCell.gif" width="200" height="450"  />
+<br></br>
+
 ## Acknowledgements
 
 - [@wcandillon](https://github.com/wcandillon) for `react-native-redash` and all of your amazing videos and courses.

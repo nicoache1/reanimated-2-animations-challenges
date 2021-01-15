@@ -5,6 +5,7 @@ import { BouncingBall } from 'src/scenes/bouncingBall'
 import { ChanelScroll } from 'src/scenes/chanelScroll'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
+import { FoldingCell } from 'src/scenes/foldingCell'
 import { Home } from 'src/scenes/home'
 import { PanGesture } from 'src/scenes/panGesture'
 import { PaperSwitch } from 'src/scenes/paperSwitch'
@@ -67,6 +68,7 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen name={Routes.RainbowCharts} component={RainbowCharts} />
       <Stack.Screen name={Routes.BouncingBall} component={BouncingBall} />
       <Stack.Screen name={Routes.PaperSwitch} component={PaperSwitch} />
+      <Stack.Screen name={Routes.FoldingCell} component={FoldingCell} />
     </Stack.Navigator>
   )
 }
