@@ -5,6 +5,7 @@ import { BouncingBall } from 'src/scenes/bouncingBall'
 import { ChanelScroll } from 'src/scenes/chanelScroll'
 import { CircularProgress } from 'src/scenes/circularProgress'
 import { CustomOnboarding } from 'src/scenes/customOnboarding'
+import { FancySwitch } from 'src/scenes/fancySwitch'
 import { FoldingCell } from 'src/scenes/foldingCell'
 import { Home } from 'src/scenes/home'
 import { LoveSlider } from 'src/scenes/loveSlider'
@@ -73,6 +74,11 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.LoveSlider}
         component={LoveSlider}
+        options={{ gestureEnabled: false }}
+      />
+      <Stack.Screen
+        name={Routes.FancySwitch}
+        component={FancySwitch}
         options={{ gestureEnabled: false }}
       />
     </Stack.Navigator>

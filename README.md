@@ -23,6 +23,7 @@ This repo contains a React Native project with animations challenges and example
 - [Paper Switch](#paper-switch)
 - [Folding Cell](#folding-cell)
 - [Love Slider](#love-slider)
+- [Fancy Switch](#fancy-switch)
 
 ## Reanimated 2 Example
 
@@ -165,6 +166,14 @@ Inspiration from [dribbble Love Slider](https://dribbble.com/shots/14642802-Love
 <br></br>
 
 <img src="./src/assets/examples/loveSlider.gif" width="200" height="450"  />
+<br></br>
+
+## Fancy Switch
+
+Inspiration from [dribbble On/Off Switch](https://dribbble.com/shots/14707970-Daily-UI-Challenge-15-On-Off-Switch)
+<br></br>
+
+<img src="./src/assets/examples/fancySwitch.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements

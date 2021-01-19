@@ -156,4 +156,12 @@ export const examples: HomeItem[] = [
     subtitle: 'A cute slider',
     title: 'Love Slider',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[17 % COLORS.length],
+    },
+    route: Routes.FancySwitch,
+    subtitle: 'A fancy changing switch',
+    title: 'Fancy Switch',
+  },
 ]
