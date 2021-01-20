@@ -23,4 +23,5 @@ export enum Routes {
   FoldingCell = 'FoldingCell',
   LoveSlider = 'LoveSlider',
   FancySwitch = 'FancySwitch',
+  MenuButton = 'MenuButton',
 }

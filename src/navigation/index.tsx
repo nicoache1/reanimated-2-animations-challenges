@@ -9,6 +9,7 @@ import { FancySwitch } from 'src/scenes/fancySwitch'
 import { FoldingCell } from 'src/scenes/foldingCell'
 import { Home } from 'src/scenes/home'
 import { LoveSlider } from 'src/scenes/loveSlider'
+import { MenuButton } from 'src/scenes/menuButton'
 import { PanGesture } from 'src/scenes/panGesture'
 import { PaperSwitch } from 'src/scenes/paperSwitch'
 import { RainbowCharts } from 'src/scenes/rainbowCharts'
@@ -79,6 +80,11 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.FancySwitch}
         component={FancySwitch}
+        options={{ gestureEnabled: false }}
+      />
+      <Stack.Screen
+        name={Routes.MenuButton}
+        component={MenuButton}
         options={{ gestureEnabled: false }}
       />
     </Stack.Navigator>

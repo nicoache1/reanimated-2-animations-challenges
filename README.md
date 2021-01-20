@@ -24,6 +24,7 @@ This repo contains a React Native project with animations challenges and example
 - [Folding Cell](#folding-cell)
 - [Love Slider](#love-slider)
 - [Fancy Switch](#fancy-switch)
+- [Menu Button](#menu-button)
 
 ## Reanimated 2 Example
 
@@ -174,6 +175,14 @@ Inspiration from [dribbble On/Off Switch](https://dribbble.com/shots/14707970-Da
 <br></br>
 
 <img src="./src/assets/examples/fancySwitch.gif" width="200" height="450"  />
+<br></br>
+
+## Fancy Menu Button
+
+Inspiration from [Menu Button Animation](https://dribbble.com/shots/7165554-Menu-Button-Animation)
+<br></br>
+
+<img src="./src/assets/examples/menuButton.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements
