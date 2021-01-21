@@ -24,4 +24,7 @@ export enum Routes {
   LoveSlider = 'LoveSlider',
   FancySwitch = 'FancySwitch',
   MenuButton = 'MenuButton',
+  Wallet = 'Wallet',
+  WalletChallenge = 'WalletChallenge',
+  WalletDetail = 'WalletDetail',
 }

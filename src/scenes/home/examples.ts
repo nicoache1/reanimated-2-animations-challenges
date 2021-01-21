@@ -172,4 +172,12 @@ export const examples: HomeItem[] = [
     subtitle: 'A fancy floating button',
     title: 'Menu Button',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[19 % COLORS.length],
+    },
+    route: Routes.WalletChallenge,
+    subtitle: 'A fancy wallet',
+    title: 'Wallet',
+  },
 ]

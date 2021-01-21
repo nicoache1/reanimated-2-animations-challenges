@@ -25,6 +25,7 @@ This repo contains a React Native project with animations challenges and example
 - [Love Slider](#love-slider)
 - [Fancy Switch](#fancy-switch)
 - [Menu Button](#menu-button)
+- [Wallet](#wallet)
 
 ## Reanimated 2 Example
 
@@ -183,6 +184,14 @@ Inspiration from [Menu Button Animation](https://dribbble.com/shots/7165554-Menu
 <br></br>
 
 <img src="./src/assets/examples/menuButton.gif" width="200" height="450"  />
+<br></br>
+
+## Wallet
+
+Inspiration from [2 FREE Touch Gesture Animations, interactions for after effects](https://dribbble.com/shots/6713486-2-FREE-Touch-Gesture-Animations-interactions-for-after-effects)
+<br></br>
+
+<img src="./src/assets/examples/cards.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements
