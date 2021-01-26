@@ -180,4 +180,12 @@ export const examples: HomeItem[] = [
     subtitle: 'A fancy wallet',
     title: 'Wallet',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[20 % COLORS.length],
+    },
+    route: Routes.ExpandingCollectionChallenge,
+    subtitle: 'Expanding collection challenge from Dribbble',
+    title: 'Expanding Collection',
+  },
 ]

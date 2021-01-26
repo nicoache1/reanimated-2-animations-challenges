@@ -20,6 +20,7 @@ import { StickyShapes } from 'src/scenes/stickyShapes'
 import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
+import { SharedElementExpandNavigator } from './stacks/sharedElementExpandNavigator'
 import { SharedElementSkateNavigator } from './stacks/sharedElementSkateNavigator'
 import { SharedElementStackNavigator } from './stacks/sharedElementStackNavigator'
 import { SharedElementWalletNavigator } from './stacks/sharedElementWalletNavigator'
@@ -91,6 +92,11 @@ export const AppContainer: React.FC<{}> = () => {
       <Stack.Screen
         name={Routes.WalletChallenge}
         component={SharedElementWalletNavigator}
+        options={{ gestureEnabled: false }}
+      />
+      <Stack.Screen
+        name={Routes.ExpandingCollectionChallenge}
+        component={SharedElementExpandNavigator}
         options={{ gestureEnabled: false }}
       />
     </Stack.Navigator>

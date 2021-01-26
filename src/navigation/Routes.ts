@@ -27,4 +27,7 @@ export enum Routes {
   Wallet = 'Wallet',
   WalletChallenge = 'WalletChallenge',
   WalletDetail = 'WalletDetail',
+  ExpandingCollection = 'ExpandingCollection',
+  ExpandingCollectionChallenge = 'ExpandingCollectionChallenge',
+  ExpandingCollectionDetail = 'ExpandingCollectionDetail',
 }

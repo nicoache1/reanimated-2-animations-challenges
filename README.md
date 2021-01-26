@@ -26,6 +26,7 @@ This repo contains a React Native project with animations challenges and example
 - [Fancy Switch](#fancy-switch)
 - [Menu Button](#menu-button)
 - [Wallet](#wallet)
+- [Expanding Collection](#expanding-collection)
 
 ## Reanimated 2 Example
 
@@ -192,6 +193,14 @@ Inspiration from [2 FREE Touch Gesture Animations, interactions for after effect
 <br></br>
 
 <img src="./src/assets/examples/cards.gif" width="200" height="450"  />
+<br></br>
+
+## Expanding Collection
+
+Inspiration from [Expanding Collection iOS Control](https://dribbble.com/shots/5370722-Expanding-Collection-Optimized-iOS-Control-Open-Source/attachments/5370722-Expanding-Collection-Optimized-iOS-Control-Open-Source?mode=media)
+<br></br>
+
+<img src="./src/assets/examples/expandingCollection.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements
