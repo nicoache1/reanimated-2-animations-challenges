@@ -27,6 +27,7 @@ This repo contains a React Native project with animations challenges and example
 - [Menu Button](#menu-button)
 - [Wallet](#wallet)
 - [Expanding Collection](#expanding-collection)
+- [Music App](#music-app)
 
 ## Reanimated 2 Example
 
@@ -201,6 +202,14 @@ Inspiration from [Expanding Collection iOS Control](https://dribbble.com/shots/5
 <br></br>
 
 <img src="./src/assets/examples/expandingCollection.gif" width="200" height="450"  />
+<br></br>
+
+## Music App
+
+Inspiration from [Music App](https://dribbble.com/shots/4260256-Music-App)
+<br></br>
+
+<img src="./src/assets/examples/musicApp.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements

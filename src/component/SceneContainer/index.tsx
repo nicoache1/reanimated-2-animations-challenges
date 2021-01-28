@@ -6,7 +6,7 @@ import { styles } from './styles'
 
 interface LayoutProps {
   forceInset: ForceInsetProp
-  style: StyleProp<ViewStyle>
+  style?: StyleProp<ViewStyle>
   children: React.ReactNode
 }
 

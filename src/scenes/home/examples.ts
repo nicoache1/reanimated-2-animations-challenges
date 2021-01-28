@@ -188,4 +188,12 @@ export const examples: HomeItem[] = [
     subtitle: 'Expanding collection challenge from Dribbble',
     title: 'Expanding Collection',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[21 % COLORS.length],
+    },
+    route: Routes.MusicApp,
+    subtitle: 'Cool music app UX interaction',
+    title: 'Music App',
+  },
 ]

@@ -30,4 +30,7 @@ export enum Routes {
   ExpandingCollection = 'ExpandingCollection',
   ExpandingCollectionChallenge = 'ExpandingCollectionChallenge',
   ExpandingCollectionDetail = 'ExpandingCollectionDetail',
+  MusicTopTabs = 'MusicTopTabs',
+  MusicApp = 'MusicApp',
+  MusicPlayer = 'MusicPlayer',
 }

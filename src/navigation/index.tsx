@@ -21,6 +21,7 @@ import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
 import { SharedElementExpandNavigator } from './stacks/sharedElementExpandNavigator'
+import { SharedElementMusicAppNavigator } from './stacks/sharedElementMusicAppNavigator'
 import { SharedElementSkateNavigator } from './stacks/sharedElementSkateNavigator'
 import { SharedElementStackNavigator } from './stacks/sharedElementStackNavigator'
 import { SharedElementWalletNavigator } from './stacks/sharedElementWalletNavigator'
@@ -98,6 +99,11 @@ export const AppContainer: React.FC<{}> = () => {
         name={Routes.ExpandingCollectionChallenge}
         component={SharedElementExpandNavigator}
         options={{ gestureEnabled: false }}
+      />
+      <Stack.Screen
+        name={Routes.MusicApp}
+        options={{ headerShown: false }}
+        component={SharedElementMusicAppNavigator}
       />
     </Stack.Navigator>
   )

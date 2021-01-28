@@ -22,6 +22,8 @@
     "gl-react-blur": "^2.0.1",
     "gl-react-native": "^4.0.1",
     "lodash": "^4.17.20",
+    "lottie-ios": "3.1.8",
+    "lottie-react-native": "^3.5.0",
     "react": "16.13.1",
     "react-dom": "^16.13.1",
     "react-native": "0.63.1",
