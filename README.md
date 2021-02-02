@@ -28,6 +28,7 @@ This repo contains a React Native project with animations challenges and example
 - [Wallet](#wallet)
 - [Expanding Collection](#expanding-collection)
 - [Music App](#music-app)
+- [Bezier Slider](#bezier-slider)
 
 ## Reanimated 2 Example
 
@@ -210,6 +211,14 @@ Inspiration from [Music App](https://dribbble.com/shots/4260256-Music-App)
 <br></br>
 
 <img src="./src/assets/examples/musicApp.gif" width="200" height="450"  />
+<br></br>
+
+## Bezier Slider
+
+Inspiration from [UI Motion Kit](https://dribbble.com/shots/4833779-UI-Motion-kit)
+<br></br>
+
+<img src="./src/assets/examples/bezierSlider.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements

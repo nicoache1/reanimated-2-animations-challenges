@@ -33,4 +33,5 @@ export enum Routes {
   MusicTopTabs = 'MusicTopTabs',
   MusicApp = 'MusicApp',
   MusicPlayer = 'MusicPlayer',
+  BezierSlider = 'BezierSlider',
 }

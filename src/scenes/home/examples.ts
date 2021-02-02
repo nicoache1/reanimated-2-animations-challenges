@@ -196,4 +196,12 @@ export const examples: HomeItem[] = [
     subtitle: 'Cool music app UX interaction',
     title: 'Music App',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[22 % COLORS.length],
+    },
+    route: Routes.BezierSlider,
+    subtitle: 'A slider with Bezier curves',
+    title: 'Bezier Slider',
+  },
 ]

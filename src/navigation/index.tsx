@@ -1,6 +1,7 @@
 import { createStackNavigator } from '@react-navigation/stack'
 import React from 'react'
 import { AccordionList } from 'src/scenes/accordion'
+import { BezierSlider } from 'src/scenes/bezierSlider'
 import { BouncingBall } from 'src/scenes/bouncingBall'
 import { ChanelScroll } from 'src/scenes/chanelScroll'
 import { CircularProgress } from 'src/scenes/circularProgress'
@@ -104,6 +105,11 @@ export const AppContainer: React.FC<{}> = () => {
         name={Routes.MusicApp}
         options={{ headerShown: false }}
         component={SharedElementMusicAppNavigator}
+      />
+      <Stack.Screen
+        name={Routes.BezierSlider}
+        component={BezierSlider}
+        options={{ gestureEnabled: false }}
       />
     </Stack.Navigator>
   )
