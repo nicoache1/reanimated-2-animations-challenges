@@ -7,6 +7,7 @@ import { customModalTransition } from '../customTransitions'
 import { Routes } from '../Routes'
 
 const Stack = createSharedElementStackNavigator()
+
 export const SharedElementExpandNavigator = () => (
   <Stack.Navigator
     screenOptions={{

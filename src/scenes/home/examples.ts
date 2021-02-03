@@ -204,4 +204,12 @@ export const examples: HomeItem[] = [
     subtitle: 'A slider with Bezier curves',
     title: 'Bezier Slider',
   },
+  {
+    backgroundStyle: {
+      backgroundColor: COLORS[23 % COLORS.length],
+    },
+    route: Routes.Mandalorian,
+    subtitle: 'Mandalorian App design',
+    title: 'Star Wars - The Mandalorian',
+  },
 ]

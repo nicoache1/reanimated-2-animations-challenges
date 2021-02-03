@@ -29,6 +29,7 @@ This repo contains a React Native project with animations challenges and example
 - [Expanding Collection](#expanding-collection)
 - [Music App](#music-app)
 - [Bezier Slider](#bezier-slider)
+- [Floating Menu](#floating-menu)
 
 ## Reanimated 2 Example
 
@@ -219,6 +220,14 @@ Inspiration from [UI Motion Kit](https://dribbble.com/shots/4833779-UI-Motion-ki
 <br></br>
 
 <img src="./src/assets/examples/bezierSlider.gif" width="200" height="450"  />
+<br></br>
+
+## Floating Menu
+
+Inspiration from [Star Wars : The Mandalorian - Mobile concept design](https://dribbble.com/shots/8915549-Star-Wars-The-Mandalorian-Mobile-concept-design)
+<br></br>
+
+<img src="./src/assets/examples/mandalorian.gif" width="200" height="450"  />
 <br></br>
 
 ## Acknowledgements

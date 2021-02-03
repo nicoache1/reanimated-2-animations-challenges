@@ -21,6 +21,7 @@ import { StickyShapes } from 'src/scenes/stickyShapes'
 import { TabBarCustom } from 'src/scenes/tabBarCustom'
 
 import { Routes } from './Routes'
+import { MandalorianStackNavigator } from './stacks/mandalorianStackNavigator'
 import { SharedElementExpandNavigator } from './stacks/sharedElementExpandNavigator'
 import { SharedElementMusicAppNavigator } from './stacks/sharedElementMusicAppNavigator'
 import { SharedElementSkateNavigator } from './stacks/sharedElementSkateNavigator'
@@ -110,6 +111,11 @@ export const AppContainer: React.FC<{}> = () => {
         name={Routes.BezierSlider}
         component={BezierSlider}
         options={{ gestureEnabled: false }}
+      />
+      <Stack.Screen
+        name={Routes.Mandalorian}
+        component={MandalorianStackNavigator}
+        options={{ headerShown: false }}
       />
     </Stack.Navigator>
   )

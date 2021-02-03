@@ -34,4 +34,6 @@ export enum Routes {
   MusicApp = 'MusicApp',
   MusicPlayer = 'MusicPlayer',
   BezierSlider = 'BezierSlider',
+  Mandalorian = 'Mandalorian',
+  MandalorianAbout = 'MandalorianAbout',
 }
